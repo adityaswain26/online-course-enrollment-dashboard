@@ -28,7 +28,8 @@ To build a dynamic, interactive dashboard that:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![image](https://github.com/user-attachments/assets/68323d1f-a202-4a97-a96b-93a94cd91e69)
+
 
 ## 🚀 Getting Started
 
