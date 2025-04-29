@@ -30,8 +30,6 @@ To build a dynamic, interactive dashboard that:
 
 ![Dashboard Screenshot](images/dashboard_preview.png)
 
-> Note: Replace this image with your actual screenshot and make sure the path is correct.
-
 ## 🚀 Getting Started
 
 To explore the dashboard:
